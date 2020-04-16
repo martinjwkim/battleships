@@ -1,0 +1,31 @@
+td {
+  border: 1px solid grey;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+}
+
+table {
+  display: inline-block;
+  padding: 30px 50px;
+}
+
+#game {
+  display: flex;
+  justify-content: center;
+}
+
+#message{
+  text-align: center;
+  margin-top: 30px;
+}
+
+p {
+  text-align: center;
+}
+
+#game-controls{
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
